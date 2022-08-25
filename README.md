@@ -8,5 +8,5 @@ Here I wanna make a simple App that get all the file from a folder and generate 
 
 Supported are jpg,tiff and Pdf files.
 
-I plan to create a intern image convertor to can use on any kind of images.
+I plan to create a intern image convertor so you can use on any kind of images.
 
