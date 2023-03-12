@@ -1,4 +1,4 @@
-# Premium-Image-Reader
+# Image-to-text-Reader
 
 OCR stands for optical character recognition and is used to convert images, handwritten documents, printed text, and scanned documents into machine-encoded text.
 Tesseract is one of the most accurate OCR engines. 
